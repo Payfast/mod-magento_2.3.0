@@ -21,7 +21,7 @@ In order to use PayFast with Magento 2.3.x you will need a working Magento 2.3.x
     This will not override any files on your system.
 3. You will now need to run the following commands in the given order:
 
-    3.1 php ./bin/magento module:enable PayFast_Payfast
+    3.1 php ./bin/magento module:enable Payfast_Payfast
     
     3.2 php ./bin/magento setup:di:compile  
     
