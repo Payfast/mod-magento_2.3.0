@@ -31,7 +31,7 @@ class Config extends AbstractConfig
     const KEY_SEND_CONFIRMATION_EMAIL = 'allowed_confirmation_email';
 
     /** @var string should this module send invoice email */
-    const KEY_SEND_INVOICE_EMAIL = 'allowed_confirmation_email';
+    const KEY_SEND_INVOICE_EMAIL = 'allowed_invoice_email';
 
     /** Core data  */
     protected $directoryHelper;
